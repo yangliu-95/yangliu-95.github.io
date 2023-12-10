@@ -12,6 +12,8 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 **Email:** [yang.liu.7@bc.edu](mailto:yang.liu.7@bc.edu)
 
+**My CV:** [here](YL_CV_current.pdf)
+
 ## Research
 
 * **Optimal Taxation of Inflation**, with Damien Capelle  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215)
