@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 ---
 
-**CV:** [here](YL_CV_current.pdf)
+**My CV:** [here](YL_CV_current.pdf)
 
