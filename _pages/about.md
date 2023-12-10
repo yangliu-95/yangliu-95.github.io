@@ -10,6 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Economics at Boston College. I share my research work and data on this site. 
 
+**Email:** [yang.liu.7@bc.edu](yang.liu.7@bc.edu)
 
 ## Research
 
