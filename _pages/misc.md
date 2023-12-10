@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-<img src="/images/misc.jpg" alt="Seagull in Québec" class="inline"/>
+<img src="/images/misc.jpg" class="inline"/>
 <sub>Seagull in Québec</sub>
 
 
