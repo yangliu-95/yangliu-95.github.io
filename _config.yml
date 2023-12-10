@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yang Liu"
-logo                     : # "/images/site-logo.png"
 title_separator          : # "-"
 name                     : &name "Yang Liu"
 description              : # &description "-"
