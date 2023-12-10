@@ -12,7 +12,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 **Email:** [yang.liu.7@bc.edu](mailto:yang.liu.7@bc.edu)
 
-**My CV:** [here](files/YL_CV_current.pdf)
+**My CV:** [here](yangliu-95.github.io/files/YL_CV_current.pdf)
 
 ## Research
 
