@@ -9,4 +9,6 @@ author_profile: true
 
 "Will it perhaps be said of us one day that we too, *steering westward, hoped to reach an India*—but that it was our fate to be wrecked against infinity?"
 
-— Friedrich Nietzsche, *Daybreak*
+<div style="text-align: right"> — Friedrich Nietzsche, *Daybreak* </div>
+
+
