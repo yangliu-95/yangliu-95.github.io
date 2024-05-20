@@ -18,11 +18,9 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 * **Earnings-Based Borrowing Constraints and Inflation Dynamics**,  work in progress  <br>
 <sub> &emsp;  Presentation: EEA Rotterdam (2024) <sub>
-  
-* **Real Rigidity under Rationing**,  work in progress
 
 * **Optimal Taxation of Inflation**, with Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215)  <br>
-<sub> &emsp;  Presentation: IMF Macro-Financial Conference* (2024), Econometric Society NASM* (2024) <sub> 
+<sub> &emsp;  Presentation: IMF Macro-Financial Conference* (2024) <sub> 
   
 * **Banks’ Joint Exposure to Market and Run Risk**, with Alexander Copestake and Divya Kirti,  [IMF Working Paper 2023/200](https://www.imf.org/en/Publications/WP/Issues/2023/09/23/Banks-Joint-Exposure-to-Market-and-Run-Risk-539390)
 
