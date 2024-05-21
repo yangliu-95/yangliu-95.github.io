@@ -20,7 +20,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 <sub> &emsp;  Presentation: EEA Rotterdam (2024) <sub>
 
 * **Optimal Taxation of Inflation**, with Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215)  <br>
-<sub> &emsp;  Presentation: IMF Macro-Financial Conference* (2024) <sub> 
+<sub> &emsp;  Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) <sub> 
   
 * **Banks’ Joint Exposure to Market and Run Risk**, with Alexander Copestake and Divya Kirti,  [IMF Working Paper 2023/200](https://www.imf.org/en/Publications/WP/Issues/2023/09/23/Banks-Joint-Exposure-to-Market-and-Run-Risk-539390)
 
