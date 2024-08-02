@@ -16,7 +16,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 ## Research
 
-* **Earnings-Based Borrowing Constraints and Inflation Dynamics**,  work in progress  <br>
+* **Financial Constraints and Price Rigidities**,  work in progress  <br>
 <sub> &emsp;  Presentation: EEA Rotterdam (2024) <sub>
 
 * **Optimal Taxation of Inflation**, with Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215)  <br>
