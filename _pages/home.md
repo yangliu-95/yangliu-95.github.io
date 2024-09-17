@@ -17,7 +17,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 ## Research
 
 * **Financial Constraints and Price Rigidities**,  work in progress  <br>
-<sub> &emsp;  Presentation: EEA Rotterdam (2024) [Short slides](files/Finance_Inflation_EEA2024_YL.pdf) <sub>
+<sub> &emsp;  Presentation: EEA Rotterdam (2024) [Short slides](files/Finance_Inflation_EEA2024_YL.pdf) , Green Line Macro Meeting (Fall 2024) <sub>
 
 * **Optimal Taxation of Inflation**, with Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215)  <br>
 <sub> &emsp;  Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) <sub> 
