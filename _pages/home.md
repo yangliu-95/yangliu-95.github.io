@@ -16,6 +16,8 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 ## Research
 
+* **Why has U.S. Inflation Become Harder to Forecast? Redux**, with Pablo A. Guerron-Quintana, work in progress <br>
+
 * **Financial Constraints and Price Rigidities**, work in progress, [Short slides](files/Finance_Inflation_EEA2024_YL.pdf) <br>
 <sub> &emsp;  Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024) <sub>
 
