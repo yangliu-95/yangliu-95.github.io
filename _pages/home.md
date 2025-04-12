@@ -24,7 +24,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
       &emsp;  Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024) <sub>
 
 * **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), revision requested by **AEJ Macro**  <br>
+<sub> &emsp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **R&R at AEJ Macro**  <br>
       &emsp;  Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) <sub>
   
 * **Financial Heterogeneity, Investment, and Firm Interactions**  <br>
