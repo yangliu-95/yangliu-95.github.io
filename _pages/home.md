@@ -20,19 +20,16 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 <sub> &emsp;  With Pablo A. Guerron-Quintana, work in progress <sub>
 
 * **Financial Constraints and Price Rigidities**  <br>
-<sub> &emsp;  Work in progress, [short slides](files/Finance_Inflation_EEA2024_YL.pdf)  <br>
-      &emsp;  Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) <sub>
+<sub> &emsp;  Work in progress, [short slides](files/Finance_Inflation_EEA2024_YL.pdf) . Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) <sub>
 
 * **Tax on Inflation Policies in a Liquidity Trap**  <br>
 <sub> &emsp;  With Damien Capelle, work in progress <sub>
 
 * **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **R&R at AEJ Macro**  <br>
-      &emsp;  Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) <sub>
+<sub> &emsp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **R&R at AEJ Macro** . Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) <sub>
   
 * **Financial Heterogeneity, Investment, and Firm Interactions**  <br>
-<sub> &emsp;  [IMF Working Paper 2023/110](https://www.imf.org/en/Publications/WP/Issues/2023/05/26/Financial-Heterogeneity-Investment-and-Firm-Interactions-533844)  <br>
-      &emsp;  Presentation: EEA Barcelona (2023), Midwest Econometrics (2023) <sub>
+<sub> &emsp;  [IMF Working Paper 2023/110](https://www.imf.org/en/Publications/WP/Issues/2023/05/26/Financial-Heterogeneity-Investment-and-Firm-Interactions-533844) . Presentation: EEA Barcelona (2023), Midwest Econometrics (2023) <sub>
 
 
 &emsp; <sub> * Presented by co-authors. </sub>
