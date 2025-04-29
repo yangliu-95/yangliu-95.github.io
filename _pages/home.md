@@ -33,7 +33,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 [1] &nbsp; **Why has U.S. Inflation Become Harder to Forecast? Redux**  <br>
 <sub> &emsp;  With Pablo A. Guerron-Quintana <sub>
 
-[2] &nbsp; **Pricing out of Financial Constraints**  <br>
+[2] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento <sub>
 
 [3] &nbsp; **Tax on Inflation Policies in a Liquidity Trap**  <br>
