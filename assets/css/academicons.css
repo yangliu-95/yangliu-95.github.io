@@ -326,8 +326,17 @@
   margin-left: .3em;
 }
 
-details { display: inline;  }
-summary { display: inline; }
 
+summary {
+        color: red;
+      }
+      
+      summary::-webkit-details-marker {
+        display: none;
+      }
+
+      details, summary {
+        display: inline;
+      }
 
 
