@@ -1,0 +1,38 @@
+details {
+  font-size: 1rem;
+  font-family: "Open Sans", Calibri, sans-serif;
+  border: solid;
+  padding: 2px 6px;
+  margin-bottom: 1em;
+}
+
+details:first-of-type summary::marker,
+:is(::-webkit-details-marker) {
+  content: "+ ";
+  font-family: monospace;
+  color: red;
+  font-weight: bold;
+}
+
+details[open]:first-of-type summary::marker {
+  content: "− ";
+}
+
+details:last-of-type summary {
+  list-style: none;
+  &::after {
+    content: "+";
+    color: white;
+    background-color: darkgreen;
+    border-radius: 1em;
+    font-weight: bold;
+    padding: 0 5px;
+    margin-inline-start: 5px;
+  }
+  [open] &::after {
+    content: "−";
+  }
+}
+details:last-of-type summary::-webkit-details-marker {
+  display: none;
+}
