@@ -9,6 +9,26 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+details {
+  display: inline;
+  color: red;
+  padding: 0;
+  background-color: #d3d3d3;
+  cursor: help;
+  
+}
+details > summary {
+  display: inline;
+  background: none;
+  color: green;
+  list-style: none; /* to remove triangle */
+  outline:none; /* to remove blue border */
+}
+details > summary::-webkit-details-marker { /* to remove triangle */
+  display: inline;
+  display: none;
+}
   </head>
 
   <body>
@@ -26,6 +46,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+  
   </body>
 </html>
