@@ -15,5 +15,11 @@
     display: none;
     padding : 5px;
 .wrap {
-  display: inline;
+  display: flex;
+}
+.before {
+  flex-shrink: 0;
+}
+.details-text {
+  margin-left: var(--offset);
 }
