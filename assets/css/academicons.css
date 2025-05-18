@@ -326,9 +326,8 @@
   margin-left: .3em;
 }
 
-p:has(+ details) { display: inline; }
- details { display: inline;  }
- summary { cursor: pointer; display: inline; }
+details { display: inline;  }
+summary { display: inline; }
 
 
 
