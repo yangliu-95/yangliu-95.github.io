@@ -39,6 +39,8 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 [3] &nbsp; **Tax on Inflation Policies in a Liquidity Trap**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle </sub>
 
+[4] &nbsp; **Inflation and Competition under Production Constraints**  <br>
+
 
 ## Policy Work
 
