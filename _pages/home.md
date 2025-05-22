@@ -20,7 +20,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 <sub> &emsp;&emsp;&ensp; [Preliminary draft](files/Finance_Inflation_apr2025.pdf) , [Slides](files/Finance_Inflation_Slides_apr2025.pdf) . Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
 
 [2] &nbsp; **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;&emsp;&ensp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **R&R at AEJ Macro** . Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) </sub>
+<sub> &emsp;&emsp;&ensp;  With Damien Capelle,  [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **Conditionally accepted by AEJ Macro** . Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) </sub>
   
 [3] &nbsp; **Financial Heterogeneity, Investment, and Firm Interactions**  <br>
 <sub> &emsp;&emsp;&ensp;  [IMF Working Paper 2023/110](https://www.imf.org/en/Publications/WP/Issues/2023/05/26/Financial-Heterogeneity-Investment-and-Firm-Interactions-533844) . Presentation: EEA Barcelona (2023), Midwest Econometrics (2023) </sub>
