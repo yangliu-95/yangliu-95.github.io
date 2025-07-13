@@ -36,7 +36,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 [2] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
 
-[3] &nbsp; **Tax on Inflation Policies in a Liquidity Trap**  <br>
+[3] &nbsp; **Tax on Inflation Policies at the Zero Lower Bound**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle </sub>
 
 [4] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
