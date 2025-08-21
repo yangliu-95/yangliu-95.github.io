@@ -14,7 +14,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 
 **CV:** [here](files/YL_CV_current.pdf)
 
-## Research
+## Working Papers
 
 [1] &nbsp; **Financial Constraints and Price Rigidities**  <br>
 <sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321) . Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
@@ -42,7 +42,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 [4] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
 
 
-## Policy Work
+## Policy Papers
 
 [1] &nbsp; **Banks’ Joint Exposure to Market and Run Risk**  <br>
 <sub> &emsp;&emsp;&ensp;  With Alexander Copestake and Divya Kirti,  [IMF Working Paper 2023/200](https://www.imf.org/en/Publications/WP/Issues/2023/09/23/Banks-Joint-Exposure-to-Market-and-Run-Risk-539390) </sub>
