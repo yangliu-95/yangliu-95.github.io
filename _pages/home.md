@@ -35,7 +35,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 [2] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
 
-[3] &nbsp; **Tax on Inflation Policies at the Zero Lower Bound**  <br>
+[3] &nbsp; **Robust Tax on Inflation Policies at the Zero Lower Bound**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle </sub>
 
 [4] &nbsp; **Why has U.S. Inflation Become Harder to Forecast? Redux**  <br>
