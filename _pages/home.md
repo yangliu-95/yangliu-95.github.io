@@ -17,7 +17,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 ## Working Papers
 
 [1] &nbsp; **Financial Constraints and Price Rigidities**  <br>
-<sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
+<sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321), **Submitted**. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
 
 [2] &nbsp; **Optimal Taxation of Inflation**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, [Latest version](files/WP_TIP_April_2025.pdf), [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **Conditionally accepted by AEJ Macro**. Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) </sub>
@@ -31,6 +31,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 ## Work in Progress
 
 [1] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
+<sub> &emsp;&emsp;&ensp; [Preliminary slides](files/OK_Model_Sep_2025_v1.pdf). </sub>
 
 [2] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
