@@ -31,7 +31,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 ## Work in Progress
 
 [1] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
-<sub> &emsp;&emsp;&ensp; [Preliminary slides](files/OK_Model_Sep_2025_v1.pdf). Draft coming soon. </sub>
+<sub> &emsp;&emsp;&ensp; [Preliminary slides](files/OK_Model_Sep_2025_v1.pdf). Draft coming soon. Presentation: Fridays at the Boston Fed Workshop (poster, 2025) </sub>
 
 [2] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
