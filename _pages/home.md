@@ -20,7 +20,7 @@ I am a Ph.D. student in Economics at Boston College. I share my research work an
 <sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). New draft coming soon. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
 
 [2] &nbsp; **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;&emsp;&ensp;  With Damien Capelle, [Latest version](files/WP_TIP_April_2025.pdf), [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215), **Accepted by AEJ Macro**. Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) </sub>
+<sub> &emsp;&emsp;&ensp;  With Damien Capelle, **AEJ Macro (forthcoming)** [link](https://www.aeaweb.org/articles?id=10.1257/mac.20240248&&from=f). Previous version: [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215). Presentation: Econometric Society NASM (2024), IMF Macro-Financial Conference* (2024) </sub>
 
 [3] &nbsp; **Financial Heterogeneity, Investment, and Firm Interactions**  <br>
 <sub> &emsp;&emsp;&ensp;  [IMF Working Paper 2023/110](https://www.imf.org/en/Publications/WP/Issues/2023/05/26/Financial-Heterogeneity-Investment-and-Firm-Interactions-533844). Presentation: EEA Barcelona (2023), Midwest Econometrics (2023) </sub>
