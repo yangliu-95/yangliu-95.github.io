@@ -18,7 +18,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 ## Current Research
 
 [1] &nbsp; **Financial Constraints and Price Rigidities**  <br>
-<sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). **Revise and resubmit at the Journal of Monetary Economics**. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
+<sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). Revise and resubmit at the **Journal of Monetary Economics**. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025) </sub>
 
 [2] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
 <sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6084028). Preliminary draft. Presentation: Fridays at the Boston Fed Workshop (poster, 2025) </sub>
@@ -36,7 +36,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 ## Publication
 
 [1] &nbsp; **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;&emsp;&ensp;  With Damien Capelle, **American Economic Journal: Macroeconomics (forthcoming)** [link](https://www.aeaweb.org/articles?id=10.1257/mac.20240248&&from=f). Previous version: [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215). </sub>
+<sub> &emsp;&emsp;&ensp;  With Damien Capelle, **American Economic Journal: Macroeconomics** (forthcoming) [link](https://www.aeaweb.org/articles?id=10.1257/mac.20240248&&from=f). Previous version: [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215). </sub>
 
 
 ## Policy and Other Papers
