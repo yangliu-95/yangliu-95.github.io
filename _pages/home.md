@@ -21,7 +21,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 <sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). Revise and resubmit, **Journal of Monetary Economics**. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025), Midwest Macro (Spring 2026) </sub>
 
 [2] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
-<sub> &emsp;&emsp;&ensp; [Preliminary paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6084028). Presentation: Fridays at the Boston Fed Workshop (poster, 2025) </sub>
+<sub> &emsp;&emsp;&ensp; [Preliminary paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6084028). Presentation: Fridays at the Boston Fed Workshop (poster, 2025), SED Athens (2026) </sub>
 
 [3] &nbsp; **Tax on Inflation Policy at the Zero Lower Bound**  <br>
 <sub> &emsp;&emsp;&ensp; With Damien Capelle. [Working paper](https://damiencapelle.com/wp-content/uploads/2026/03/Capelle-and-Liu-TIP_at_the_ZLB-IMF.pdf) </sub>
