@@ -32,7 +32,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 [5] &nbsp; **Why has U.S. Inflation Become Harder to Forecast? Redux**  <br>
 <sub> &emsp;&emsp;&ensp;  With Pablo A. Guerron-Quintana </sub>
 
-[6] &nbsp; **The Extensive and Intensive Margins of Financial Constraints**  <br>
+[6] &nbsp; **The "Availability Doctrine" Revisited: Financial Constraints at the Extensive and Intensive Margins**  <br>
 
 
 ## Publication
