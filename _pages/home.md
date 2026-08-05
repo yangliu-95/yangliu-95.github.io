@@ -36,6 +36,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 <sub> &emsp;&emsp;&ensp;  With Pablo A. Guerron-Quintana </sub>
 
 [7] &nbsp; **The "Availability Doctrine" Revisited: Financial Constraints at the Extensive Margin**  <br>
+<sub> &emsp;&emsp;&ensp; </sub>
 
 
 ## Publication
