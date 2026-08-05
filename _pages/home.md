@@ -26,13 +26,15 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 [3] &nbsp; **Tax on Inflation Policy at the Zero Lower Bound**  <br>
 <sub> &emsp;&emsp;&ensp; With Damien Capelle. [Latest WP](files/TIP_at_the_ZLB.pdf). [IMF Working Paper 2026/059](https://www.imf.org/en/publications/wp/issues/2026/03/27/tax-on-inflation-policy-at-the-zero-lower-bound-575058) </sub>
 
-[4] &nbsp; **Pricing Out of Financial Constraints**  <br>
+[4] &nbsp; **Uncertainty Discounting**  <br>
+
+[5] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
 
-[5] &nbsp; **Why has U.S. Inflation Become Harder to Forecast? Redux**  <br>
+[6] &nbsp; **Why has U.S. Inflation Become Harder to Forecast? Redux**  <br>
 <sub> &emsp;&emsp;&ensp;  With Pablo A. Guerron-Quintana </sub>
 
-[6] &nbsp; **The "Availability Doctrine" Revisited: Financial Constraints at the Extensive Margin**  <br>
+[7] &nbsp; **The "Availability Doctrine" Revisited: Financial Constraints at the Extensive Margin**  <br>
 
 
 ## Publication
