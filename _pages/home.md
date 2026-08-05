@@ -19,9 +19,9 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 
 [1] &nbsp; **Financial Constraints and Cost Pass-Through under Sticky Prices**  <br>
 <sub> &emsp;&emsp;&ensp; [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5259321). Accept subject to major revisions, **Journal of Monetary Economics**. Presentation: EEA Rotterdam (2024), Green Line Macro Meeting (2024), Brown University PhD Conference (2025), Midwest Macro (Spring 2026) </sub>
-<details class="abstract-toggle" style="display: block; margin-top: 0.3em;">
+<details class="abstract-toggle">
 <summary><b>&emsp;Abstract</b></summary>
-<p>3.</p>
+<p>1.</p>
 </details>
 
 [2] &nbsp; **Inflation and Competition in an Old Keynesian Model**  <br>
