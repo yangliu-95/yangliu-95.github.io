@@ -19,7 +19,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 
 [1] &nbsp; **Financial Constraints and Cost Pass-Through under Sticky Prices**  <br>
 <details class="abstract-toggle">
-<summary><b>&emsp;&emsp;Abstract</b></summary>
+<summary><b>&emsp;Abstract</b></summary>
 <p>2.</p>
 </details>
 
