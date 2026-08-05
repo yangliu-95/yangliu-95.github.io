@@ -27,6 +27,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 <sub> &emsp;&emsp;&ensp; With Damien Capelle. [Latest WP](files/TIP_at_the_ZLB.pdf). [IMF Working Paper 2026/059](https://www.imf.org/en/publications/wp/issues/2026/03/27/tax-on-inflation-policy-at-the-zero-lower-bound-575058) </sub>
 
 [4] &nbsp; **Uncertainty Discounting**  <br>
+<sub> &emsp;&emsp;&ensp;  With Carlos Eggers </sub>
 
 [5] &nbsp; **Pricing Out of Financial Constraints**  <br>
 <sub> &emsp;&emsp;&ensp;  With Damien Capelle, Francesco Grigoli, Nan Li, and Miguel Sarmiento </sub>
