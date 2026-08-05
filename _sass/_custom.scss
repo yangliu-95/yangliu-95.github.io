@@ -1,8 +1,13 @@
 .abstract-toggle {
-  margin-left: 2em;
-  font-size: 0.85em;
+  margin-left: 2em !important;
+  font-size: 0.85em !important;
+
+  summary {
+    cursor: pointer;
+  }
 
   p {
-    margin-left: 1em;
+    margin-left: 1em !important;
+    font-size: 0.85em !important;
   }
 }
