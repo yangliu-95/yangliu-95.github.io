@@ -42,7 +42,7 @@ I am a Ph.D. student in Economics at Boston College. I am interested in macroeco
 ## Publication
 
 [1] &nbsp; **Optimal Taxation of Inflation**  <br>
-<sub> &emsp;&emsp;&ensp;  With Damien Capelle, **American Economic Journal: Macroeconomics, 18 (4): 64–93.** [Link](https://www.aeaweb.org/articles?id=10.1257/mac.20240248). Previous version: [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215) </sub>
+<sub> &emsp;&emsp;&ensp;  With Damien Capelle, **American Economic Journal: Macroeconomics, 18 (4): 64&ndash;93.** [Link](https://www.aeaweb.org/articles?id=10.1257/mac.20240248). Previous version: [IMF Working Paper 2023/254](https://www.imf.org/en/Publications/WP/Issues/2023/12/08/Optimal-Taxation-of-Inflation-542215) </sub>
 
 
 ## Policy and Other Papers
